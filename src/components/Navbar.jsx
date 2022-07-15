@@ -5,6 +5,7 @@ export default function Navbar() {
   return (
    <header>
         <nav>
+            <NavLink id="rabbit" to="/">🐇</NavLink>
             <ul>
                 <li>
                     <NavLink to="/">First Page</NavLink>

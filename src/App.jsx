@@ -8,7 +8,7 @@ import Last from './components/Last'
 function App() {
   return (
     <main>
-      <h2>Hi</h2>
+      <h2>Jule's React Challenge</h2>
       <Router >
         <Navbar />
           <Routes>
